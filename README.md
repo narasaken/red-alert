@@ -1,1 +1,2 @@
 # red-alert
+When the game begins, two stars appear and start moving down the screen. The player needs to click on the red star before the stars reach the bottom of the screen. Each time the red star is clicked, the game moves on to the next level. With each level, more green and blue stars are added and they move faster than before. If the player clicks on any star other than the red one, or if the stars reach the bottom of the screen, the game ends.
